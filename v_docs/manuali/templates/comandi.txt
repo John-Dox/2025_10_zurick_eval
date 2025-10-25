@@ -1,1 +1,0 @@
-pandoc "v_docs\manuali\fonti\test_diagnosi_parentesi.md" -o "v_docs\manuali\outputs\output_diagnosi_parentesi.docx" --reference-doc="v_docs\manuali\templates\template_manuale.dotx" --toc --toc-depth=4
