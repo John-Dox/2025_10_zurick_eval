@@ -8,6 +8,7 @@
 # pip install pipdeptree
 # docker run --rm -v "$(pwd):/code" githubocto/repo-visualizer
 # pip install graphviz
+# pip install pyan
 google-cloud-storage
 google-cloud-documentai
 google-generativeai
