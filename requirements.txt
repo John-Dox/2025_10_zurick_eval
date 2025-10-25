@@ -1,0 +1,14 @@
+# pip install -r requirements.txt
+# sudo apt-get update && sudo apt-get install -y pandoc
+# opencv-python-headless numpy
+# numpy opencv-python-headless scikit-learn
+google-cloud-storage
+google-cloud-documentai
+google-generativeai
+openai
+python-docx
+python-dotenv
+pypandoc
+qdrant-client
+tiktoken
+tqdm

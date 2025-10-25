@@ -1,0 +1,14 @@
+# comando per creare un file con la struttura corrente della repository
+
+--- in powershell ---
+tree /F > struttura_repository.txt 
+per stampare anche i file in powershell
+
+cmd /c "tree /F" > struttura_repository.txt
+per stampare senza le intestazioni
+
+tree -F > struttura_repository.txt
+per gitbash
+
+# per attivare le chiavi a ogni sessione, finora
+$env:GOOGLE_APPLICATION_CREDENTIALS="a_chiavi\service-account-key.json"

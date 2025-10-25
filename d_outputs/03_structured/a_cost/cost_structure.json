@@ -1,0 +1,349 @@
+{
+  "document_title": "Costituzione della Repubblica Italiana",
+  "document_type": "costituzione",
+  "total_articles": 139,
+  "total_disposizioni_finali": 18,
+  "structure": [
+    {
+      "node_id": "PF",
+      "level": 1,
+      "title": "PRINCIPI FONDAMENTALI",
+      "articles": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "children": []
+    },
+    {
+      "node_id": "P1",
+      "level": 1,
+      "title": "PARTE PRIMA. DIRITTI E DOVERI DEI CITTADINI",
+      "articles": [],
+      "children": [
+        {
+          "node_id": "P1-T1",
+          "level": 2,
+          "title": "Titolo I. Rapporti civili",
+          "articles": [
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P1-T2",
+          "level": 2,
+          "title": "Titolo II. Rapporti etico-sociali",
+          "articles": [
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P1-T3",
+          "level": 2,
+          "title": "Titolo III. Rapporti economici",
+          "articles": [
+            "35",
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P1-T4",
+          "level": 2,
+          "title": "Titolo IV. Rapporti politici",
+          "articles": [
+            "48",
+            "49",
+            "50",
+            "51",
+            "52",
+            "53",
+            "54"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_id": "P2",
+      "level": 1,
+      "title": "PARTE SECONDA. ORDINAMENTO DELLA REPUBBLICA",
+      "articles": [],
+      "children": [
+        {
+          "node_id": "P2-T1",
+          "level": 2,
+          "title": "Titolo I. Il Parlamento",
+          "articles": [],
+          "children": [
+            {
+              "node_id": "P2-T1-S1",
+              "level": 3,
+              "title": "Sezione I. Le Camere",
+              "articles": [
+                "55",
+                "56",
+                "57",
+                "58",
+                "59",
+                "60",
+                "61",
+                "62",
+                "63",
+                "64",
+                "65",
+                "66",
+                "67",
+                "68",
+                "69"
+              ],
+              "children": []
+            },
+            {
+              "node_id": "P2-T1-S2",
+              "level": 3,
+              "title": "Sezione II. La formazione delle leggi",
+              "articles": [
+                "70",
+                "71",
+                "72",
+                "73",
+                "74",
+                "75",
+                "76",
+                "77",
+                "78",
+                "79",
+                "80",
+                "81",
+                "82"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_id": "P2-T2",
+          "level": 2,
+          "title": "Titolo II. Il Presidente della Repubblica",
+          "articles": [
+            "83",
+            "84",
+            "85",
+            "86",
+            "87",
+            "88",
+            "89",
+            "90",
+            "91"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P2-T3",
+          "level": 2,
+          "title": "Titolo III. Il Governo",
+          "articles": [],
+          "children": [
+            {
+              "node_id": "P2-T3-S1",
+              "level": 3,
+              "title": "Sezione I. Il Consiglio dei ministri",
+              "articles": [
+                "92",
+                "93",
+                "94",
+                "95",
+                "96"
+              ],
+              "children": []
+            },
+            {
+              "node_id": "P2-T3-S2",
+              "level": 3,
+              "title": "Sezione II. La Pubblica Amministrazione",
+              "articles": [
+                "97",
+                "98"
+              ],
+              "children": []
+            },
+            {
+              "node_id": "P2-T3-S3",
+              "level": 3,
+              "title": "Sezione III. Gli organi ausiliari",
+              "articles": [
+                "99",
+                "100"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_id": "P2-T4",
+          "level": 2,
+          "title": "Titolo IV. La magistratura",
+          "articles": [],
+          "children": [
+            {
+              "node_id": "P2-T4-S1",
+              "level": 3,
+              "title": "Sezione I. Ordinamento giurisdizionale",
+              "articles": [
+                "101",
+                "102",
+                "103",
+                "104",
+                "105",
+                "106",
+                "107",
+                "108",
+                "109",
+                "110"
+              ],
+              "children": []
+            },
+            {
+              "node_id": "P2-T4-S2",
+              "level": 3,
+              "title": "Sezione II. Norme sulla giurisdizione",
+              "articles": [
+                "111",
+                "112",
+                "113"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_id": "P2-T5",
+          "level": 2,
+          "title": "Titolo V. Le Regioni, le Province, i Comuni",
+          "articles": [
+            "114",
+            "115",
+            "116",
+            "117",
+            "118",
+            "119",
+            "120",
+            "121",
+            "122",
+            "123",
+            "124",
+            "125",
+            "126",
+            "127",
+            "128",
+            "129",
+            "130",
+            "131",
+            "132",
+            "133"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P2-T6",
+          "level": 2,
+          "title": "Titolo VI. Garanzie costituzionali",
+          "articles": [],
+          "children": [
+            {
+              "node_id": "P2-T6-S1",
+              "level": 3,
+              "title": "Sezione I. La Corte costituzionale",
+              "articles": [
+                "134",
+                "135",
+                "136",
+                "137"
+              ],
+              "children": []
+            },
+            {
+              "node_id": "P2-T6-S2",
+              "level": 3,
+              "title": "Sezione II. Revisione della Costituzione. Leggi costituzionali",
+              "articles": [
+                "138",
+                "139"
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node_id": "DTF",
+      "level": 1,
+      "title": "DISPOSIZIONI TRANSITORIE E FINALI",
+      "articles": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII"
+      ],
+      "children": []
+    }
+  ]
+}

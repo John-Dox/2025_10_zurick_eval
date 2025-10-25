@@ -1,0 +1,532 @@
+{
+  "document_title": "Regolamento della Camera dei Deputati",
+  "document_type": "regolamento_parlamentare",
+  "total_articles": 181,
+  "structure": [
+    {
+      "node_id": "P1",
+      "level": 1,
+      "title": "PARTE PRIMA - ORGANIZZAZIONE E FUNZIONAMENTO DELLA CAMERA",
+      "articles": [],
+      "children": [
+        {
+          "node_id": "P1-C1",
+          "level": 2,
+          "title": "CAPO I - DISPOSIZIONI PRELIMINARI",
+          "articles": [
+            "1",
+            "2",
+            "3"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P1-C2",
+          "level": 2,
+          "title": "CAPO II - DEL PRESIDENTE, DELL’UFFICIO DI PRESIDENZA E DELLA CONFERENZA DEI PRESIDENTI DI GRUPPO",
+          "articles": [
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P1-C3",
+          "level": 2,
+          "title": "CAPO III - DEI GRUPPI PARLAMENTARI",
+          "articles": [
+            "14",
+            "15",
+            "15-bis",
+            "15-ter"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P1-C4",
+          "level": 2,
+          "title": "CAPO IV - DELLE GIUNTE",
+          "articles": [
+            "16",
+            "16-bis",
+            "17",
+            "17-bis",
+            "18",
+            "18-bis",
+            "18-ter",
+            "18-quater"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P1-C5",
+          "level": 2,
+          "title": "CAPO V - DELLE COMMISSIONI PERMANENTI",
+          "articles": [
+            "19",
+            "20",
+            "21",
+            "22"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P1-C6",
+          "level": 2,
+          "title": "CAPO VI - DELL’ORGANIZZAZIONE DEI LAVORI E DELL’ORDINE DEL GIORNO DELL’ ASSEMBLEA E DELLE COMMISSIONI",
+          "articles": [
+            "23",
+            "24",
+            "25",
+            "25-bis",
+            "26",
+            "27",
+            "28"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P1-C7",
+          "level": 2,
+          "title": "CAPO VII - DELLE SEDUTE DELL’ASSEMBLEA, DELLE COMMISSIONI E DEL PARLAMENTO A CAMERE RIUNITE",
+          "articles": [
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "35"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P1-C8",
+          "level": 2,
+          "title": "CAPO VIII - DELLA DISCUSSIONE",
+          "articles": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P1-C9",
+          "level": 2,
+          "title": "CAPO IX - DEL NUMERO LEGALE E DELLE DELIBERAZIONI",
+          "articles": [
+            "46",
+            "47",
+            "48",
+            "48-bis"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P1-C10",
+          "level": 2,
+          "title": "CAPO X - DELLE VOTAZIONI",
+          "articles": [
+            "49",
+            "50",
+            "51",
+            "52",
+            "53",
+            "54",
+            "55",
+            "56",
+            "57"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P1-C11",
+          "level": 2,
+          "title": "CAPO XI - DELL’ORDINE DELLE SEDUTE E DELLA POLIZIA DELLA CAMERA",
+          "articles": [
+            "58",
+            "59",
+            "60",
+            "61",
+            "62"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P1-C12",
+          "level": 2,
+          "title": "CAPO XII - DELLA PUBBLICITÀ DEI LAVORI",
+          "articles": [
+            "63",
+            "64",
+            "65"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P1-C13",
+          "level": 2,
+          "title": "CAPO XIII - DEL BILANCIO DELLA CAMERA",
+          "articles": [
+            "66"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P1-C14",
+          "level": 2,
+          "title": "CAPO XIV - DEGLI UFFICI DELLA CAMERA",
+          "articles": [
+            "67"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_id": "P2",
+      "level": 1,
+      "title": "PARTE SECONDA - PROCEDIMENTO LEGISLATIVO",
+      "articles": [],
+      "children": [
+        {
+          "node_id": "P2-C15",
+          "level": 2,
+          "title": "CAPO XV - DELLA PRESENTAZIONE E TRASMISSIONE DEI PROGETTI DI LEGGE",
+          "articles": [
+            "68",
+            "69",
+            "70",
+            "71"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P2-C16",
+          "level": 2,
+          "title": "CAPO XVI - DELL’ESAME IN SEDE REFERENTE",
+          "articles": [
+            "72",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78",
+            "79",
+            "80",
+            "81"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P2-C17",
+          "level": 2,
+          "title": "CAPO XVII - DELL’ESAME IN ASSEMBLEA",
+          "articles": [
+            "82",
+            "83",
+            "84",
+            "85",
+            "85-bis",
+            "86",
+            "87",
+            "88",
+            "89",
+            "90",
+            "91"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P2-C18",
+          "level": 2,
+          "title": "CAPO XVIII - DELL’ESAME NELLE COMMISSIONI IN SEDE LEGISLATIVA",
+          "articles": [
+            "92",
+            "93",
+            "94",
+            "95"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P2-C19",
+          "level": 2,
+          "title": "CAPO XIX - DELL’ESAME IN SEDE REDIGENTE",
+          "articles": [
+            "96"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P2-C19-bis",
+          "level": 2,
+          "title": "CAPO XIX-bis - DEI DISEGNI DI LEGGE DI CONVERSIONE DI DECRETI-LEGGE",
+          "articles": [
+            "96-bis"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P2-C19-ter",
+          "level": 2,
+          "title": "CAPO XIX-ter - DELL’ESAME DEGLI SCHEMI DI ATTI NORMATIVI DEL GOVERNO",
+          "articles": [
+            "96-ter"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P2-C20",
+          "level": 2,
+          "title": "CAPO XX - DEI PROGETTI DI LEGGE COSTITUZIONALE",
+          "articles": [
+            "97",
+            "98",
+            "99",
+            "100"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P2-C21",
+          "level": 2,
+          "title": "CAPO XXI - DEL BILANCIO E DEL RENDICONTO DELLO STATO",
+          "articles": [
+            "101"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P2-C22",
+          "level": 2,
+          "title": "CAPO XXII - DELLE PROCEDURE RELATIVE ALLE QUESTIONI REGIONALI",
+          "articles": [
+            "102",
+            "103",
+            "104",
+            "105",
+            "106"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P2-C23",
+          "level": 2,
+          "title": "CAPO XXIII - DEI PROGETTI DI LEGGE GIÀ ESAMINATI NELLA PRECEDENTE LEGISLATURA",
+          "articles": [
+            "107"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P2-C24",
+          "level": 2,
+          "title": "CAPO XXIV - SEGUITO DELLE SENTENZE DELLA CORTE COSTITUZIONALE",
+          "articles": [
+            "108"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P2-C25",
+          "level": 2,
+          "title": "CAPO XXV - DELLE PETIZIONI",
+          "articles": [
+            "109"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_id": "P3",
+      "level": 1,
+      "title": "PARTE TERZA - PROCEDURE DI INDIRIZZO, DI CONTROLLO E DI INFORMAZIONE",
+      "articles": [],
+      "children": [
+        {
+          "node_id": "P3-C26",
+          "level": 2,
+          "title": "CAPO XXVI - DELLE MOZIONI E RISOLUZIONI",
+          "articles": [
+            "110",
+            "111",
+            "112",
+            "113",
+            "114",
+            "115",
+            "116",
+            "117",
+            "118"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P3-C27",
+          "level": 2,
+          "title": "CAPO XXVII - DELL’ESAME DEL DISEGNO DI LEGGE FINANZIARIA, DEL BILANCIO, DEL RENDICONTO, DEI DOCUMENTI DI POLITICA ECONOMICA E FINANZIARIA E DELLE RELAZIONI GOVERNATIVE",
+          "articles": [
+            "118-bis",
+            "119",
+            "120",
+            "121",
+            "122",
+            "123",
+            "123-bis",
+            "124"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P3-C28",
+          "level": 2,
+          "title": "CAPO XXVIII - DELLE PROCEDURE DI COLLEGAMENTO CON L’ATTIVITÀ DI ORGANISMI COMUNITARI E INTERNAZIONALI",
+          "articles": [
+            "125",
+            "126",
+            "126-bis",
+            "126-ter",
+            "127",
+            "127-bis",
+            "127-ter"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P3-C29",
+          "level": 2,
+          "title": "CAPO XXIX - DELLE INTERROGAZIONI",
+          "articles": [
+            "128",
+            "129",
+            "130",
+            "131",
+            "132",
+            "133",
+            "134",
+            "135",
+            "135-bis",
+            "135-ter"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P3-C30",
+          "level": 2,
+          "title": "CAPO XXX - DELLE INTERPELLANZE",
+          "articles": [
+            "136",
+            "137",
+            "138",
+            "138-bis"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P3-C31",
+          "level": 2,
+          "title": "CAPO XXXI - DELLE DISPOSIZIONI COMUNI A MOZIONI, INTERPELLANZE E INTERROGAZIONI",
+          "articles": [
+            "139",
+            "139-bis"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P3-C32",
+          "level": 2,
+          "title": "CAPO XXXII - DELLE INCHIESTE PARLAMENTARI",
+          "articles": [
+            "140",
+            "141",
+            "142"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P3-C33",
+          "level": 2,
+          "title": "CAPO XXXIII - DELLE PROCEDURE DI INDAGINE, INFORMAZIONE E CONTROLLO IN COMMISSIONE",
+          "articles": [
+            "143",
+            "144",
+            "145"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P3-C34",
+          "level": 2,
+          "title": "CAPO XXXIV - DEI RAPPORTI CON IL CNEL",
+          "articles": [
+            "146",
+            "147"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P3-C35",
+          "level": 2,
+          "title": "CAPO XXXV - DEI RAPPORTI CON LA CORTE DEI CONTI",
+          "articles": [
+            "148",
+            "149",
+            "150"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_id": "P4",
+      "level": 1,
+      "title": "PARTE QUARTA - DISPOSIZIONI FINALI",
+      "articles": [],
+      "children": [
+        {
+          "node_id": "P4-C36",
+          "level": 2,
+          "title": "CAPO XXXVI - ENTRATA IN VIGORE",
+          "articles": [
+            "151",
+            "152",
+            "153",
+            "153-bis",
+            "153-ter",
+            "153-quater",
+            "153-quinquies",
+            "153-sexies"
+          ],
+          "children": []
+        },
+        {
+          "node_id": "P4-DT",
+          "level": 2,
+          "title": "DISPOSIZIONE TRANSITORIA",
+          "articles": [
+            "154"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

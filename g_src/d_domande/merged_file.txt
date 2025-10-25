@@ -1,0 +1,200 @@
+# g_src/d_domande/domande.txt
+# File di domande per testare le funzionalità del sistema RAG.
+# Le righe che iniziano con # vengono ignorate.
+
+# --- Blocco 1: Verifica dei Bug Risolti (Ricerca Strutturale) ---
+# Queste domande devono funzionare al 100%.
+A quale capo appartiene l'articolo 3 del Regolamento?
+In che parte si trova l'articolo 13 della Costituzione?
+Come si intitola il primo capo del regolamento?
+Come si intitola il Titolo IV della Parte Seconda della Costituzione?
+
+# --- Blocco 2: Test di Ricerca RAG su Contenuto Specifico ---
+Cosa dice l'articolo 67 della Costituzione sul mandato parlamentare?
+Spiega l'articolo 15 del Regolamento sulla pubblicità dei lavori.
+Quali sono i compiti del Presidente della Camera secondo l'articolo 8 del regolamento?
+Cosa stabilisce l'articolo 21 della Costituzione?
+Quali sono le funzioni del Presidente della Repubblica secondo la Costituzione?
+
+# --- Blocco 3: Test di Ricerca Tematica (Senza Filtro Documento) ---
+# Domande ampie che dovrebbero recuperare da entrambe le fonti.
+Parlami delle immunità.
+Quali sono le procedure di votazione?
+Come si formano le leggi?
+Descrivi il ruolo delle commissioni parlamentari.
+
+# --- Blocco 4: Test di Fallimento Controllato ---
+# Domande su argomenti non presenti nei testi.
+Quali sono le leggi sul copyright in Italia?
+Come funziona il processo penale?
+
+# --- Blocco 5: Test con Override del Modello ---
+# Domanda che usa un alias per un modello specifico.
+Descrivi le funzioni del Governo secondo la Costituzione @pro
+# --- Blocco 1: Verifica dei Bug Risolti (Ricerca Strutturale) ---
+# Queste domande devono funzionare al 100%.
+A quale capo appartiene l'articolo 3 del Regolamento?
+In che parte si trova l'articolo 13 della Costituzione?
+Come si intitola il primo capo del regolamento?
+Come si intitola il Titolo IV della Parte Seconda della Costituzione?
+
+# --- Blocco 2: Test di Ricerca RAG su Contenuto Specifico ---
+Cosa dice l'articolo 67 della Costituzione sul mandato parlamentare? @gpt
+Cosa dice l'articolo 67 della Costituzione sul mandato parlamentare? @pro
+Spiega l'articolo 15 del Regolamento sulla pubblicità dei lavori. @gpt
+Spiega l'articolo 15 del Regolamento sulla pubblicità dei lavori. @pro
+Quali sono i compiti del Presidente della Camera secondo l'articolo 8 del regolamento? @gpt
+Quali sono i compiti del Presidente della Camera secondo l'articolo 8 del regolamento? @pro
+Cosa stabilisce l'articolo 21 della Costituzione? @gpt
+Cosa stabilisce l'articolo 21 della Costituzione? @pro
+Quali sono le funzioni del Presidente della Repubblica secondo la Costituzione? @gpt
+Quali sono le funzioni del Presidente della Repubblica secondo la Costituzione? @pro
+
+# --- Blocco 3: Test di Ricerca Tematica (Senza Filtro Documento) ---
+# Domande ampie che dovrebbero recuperare da entrambe le fonti.
+#Parlami delle immunità.
+#Quali sono le procedure di votazione?
+#Come si formano le leggi?
+#Descrivi il ruolo delle commissioni parlamentari.
+
+# --- Blocco 4: Test di Fallimento Controllato ---
+# Domande su argomenti non presenti nei testi.
+#Quali sono le leggi sul copyright in Italia?
+#Come funziona il processo penale?
+
+# --- Blocco 5: Test con Override del Modello ---
+# Domanda che usa un alias per un modello specifico.
+#Descrivi le funzioni del Governo secondo la Costituzione @pro
+# === Suite di Test Intensivo per Sistema RAG v3.0 ===
+# Ogni blocco testa una funzionalità specifica del sistema.
+
+# --- Blocco A: Test di Robustezza del Lookup di Metadati ---
+# Verifica la capacità di rispondere a domande fattuali con varie formulazioni.
+Di quanti articoli si compone il primo capo del Regolamento?
+Quanti articoli ci sono nel capo 2?
+Come si intitola il capo i?
+Dimmi il titolo della seconda parte
+A quale capo appartiene l'articolo 7?
+# Caso limite: richiesta su entità non esistente
+Di quanti articoli è composto il capo decimo?
+
+# --- Blocco B: Test di Robustezza del RAG Strutturale ---
+# Verifica il recupero e la sintesi per entità specifiche, inclusi i commi.
+Sintetizza l'articolo 5 del Regolamento.
+Cosa dice esattamente il comma 3 dell'articolo 5?
+Illustrami il secondo comma dell'articolo 3
+# Caso con typo deliberato
+Spiega l'articol o4 del Regolamento
+
+# --- Blocco C: Test di Stress sulla Ricerca Tematica (Vettoriale + Rerank) ---
+# Verifica la capacità di rispondere a domande astratte che richiedono sintesi e inferenza.
+Qual è il ruolo dei Questori secondo il Regolamento?
+Descrivi la procedura per l'insediamento di un nuovo deputato.
+Come viene garantita la rappresentanza di tutti i gruppi parlamentari nell'Ufficio di Presidenza?
+Quali sono i poteri del Presidente della Camera durante una discussione?
+# Domanda che richiede di collegare più articoli
+Che differenza c'è tra la presidenza provvisoria e quella definitiva?
+
+# --- Blocco D: Test del Fallback e dei Casi Limite ---
+# Verifica come si comporta il sistema quando non dovrebbe trovare nulla.
+Cosa dice il Regolamento sull'intelligenza artificiale?
+Qual è l'articolo che parla delle missioni spaziali?
+# Domanda ambigua e fuori contesto
+Parlami della Costituzione.
+
+# --- Blocco E: Test di Memoria e Override del Modello ---
+# Verifica il funzionamento del follow-up e del cambio di modello.
+Spiega in dettaglio l'articolo 8 del Regolamento.
+# Questa domanda testa la memoria: riutilizzerà il contesto dell'Art. 8
+più sintetico
+# Questa domanda testa sia la memoria che l'override
+più dettagliato @gpt
+# === Suite di Test di Consolidamento e Correzione Finale ===
+
+# --- Blocco A: Test Specifico sul Lookup delle PARTI ---
+# Verifica la capacità di recupero dei titoli per tutte le parti note.
+Dimmi il titolo della prima parte
+Qual è il titolo della parte II del Regolamento?
+Come si intitola la Parte Terza?
+# Test su un'entità numerica
+Qual è il titolo della parte 4?
+
+# --- Blocco B: Stress Test sulla Memoria e Follow-up ---
+# Esegue una query di base, per poi testare tutte le varianti di follow-up.
+Illustra in dettaglio l'articolo 10 del Regolamento.
+
+# Test di follow-up semplice
+più sintetico
+
+# Altro test di follow-up per verificare che la memoria persista
+ancora più dettagliato
+
+# Test di follow-up con override del modello
+fammi un riassunto più sintetico @pro
+rendi la risposta più dettagliata @gpt
+
+# --- Blocco C: Test di Robustezza su Query Miste ---
+# Domande che l'AI Router deve interpretare correttamente.
+Quale capo ha come titolo "DELLE VOTAZIONI"?
+L'articolo 3 appartiene al capo sulle disposizioni preliminari?
+
+# --- Blocco D: Test su Limiti Noti (Query Composite) ---
+# Domande che, prevediamo, il sistema non gestirà perfettamente, per validarne il comportamento.
+Quanti articoli ha il Capo II e di cosa parla l'articolo 4?
+# === Suite di Test di Robustezza v3.1 ===
+
+# --- Blocco A: Validazione Correzione Lookup PARTI ---
+# Questo blocco deve funzionare al 100% dopo la correzione.
+# Test base
+Qual è il titolo della parte II?
+# Test con parola ordinale
+Come si intitola la terza parte?
+# Test con numero arabo
+Qual è il titolo della parte 4 del Regolamento?
+# Test con override (deve comunque funzionare il lookup)
+Dimmi il titolo della parte prima @gpt
+
+# --- Blocco B: Stress Test Correzione Follow-up ---
+# Questa sequenza deve funzionare perfettamente dopo la correzione.
+Spiega in dettaglio l'articolo 5 del Regolamento.
+# Follow-up semplice
+più sintetico
+# Follow-up che falliva (parola chiave + override)
+rendi la risposta più dettagliata @gpt
+# Follow-up che falliva (parola chiave + override, ordine inverso)
+@pro fammi un riassunto più sintetico
+
+# --- Blocco C: Test per Futuri Miglioramenti (Lookup Avanzato) ---
+# Ci aspettiamo che queste domande falliscano attivando il RAG.
+# Lo scopo è validare il comportamento attuale per poi migliorarlo.
+Quale capo ha come titolo "DEI GRUPPI PARLAMENTARI"?
+Elenca tutti i capi della Parte Prima.
+Quali sono i capi contenuti nella seconda parte?
+
+# --- Blocco D: Validazione Robustezza Intent ---
+# Domande formulate in modo diverso per testare la flessibilità dell'AI Router.
+L'articolo 5 a quale capo appartiene?
+Di quanti articoli è fatto il capo X?
+# Domanda affermativa (Yes/No) che dovrebbe usare il lookup
+L'articolo 7 fa parte del capo II?
+# === Suite di Test per la Funzionalità di Arricchimento Multi-Riassunto ===
+
+# --- Blocco A: Domande a cavallo tra CAPO I e CAPO II ---
+# L'obiettivo è verificare che il sistema aggiunga al contesto sia il riassunto del CAPO I sia quello del CAPO II.
+
+# Domanda 1: Richiede la procedura di insediamento (Art. 1-3, CAPO I) e l'elezione del Presidente (Art. 4, CAPO II)
+Descrivi la procedura completa dall'insediamento di un deputato fino all'elezione del Presidente della Camera.
+
+# Domanda 2: Richiede la composizione dell'ufficio provvisorio (Art. 2, CAPO I) e di quello definitivo (Art. 5, CAPO II)
+Spiega come si compone l'ufficio di presidenza provvisorio e quello definitivo, evidenziando le differenze.
+
+# Domanda 3 (variante): Mette a confronto diretto articoli di capitoli diversi
+Che differenza c'è tra le procedure descritte nell'articolo 3 e quelle dell'articolo 5?
+
+
+# --- Blocco B: Domanda a cavallo tra più di due capitoli (Stress Test) ---
+# L'obiettivo è verificare che il sistema possa gestire anche più di due riassunti.
+# Questa domanda dovrebbe coinvolgere il CAPO I (disposizioni preliminari), il CAPO II (elezione Presidente) e il CAPO III (costituzione gruppi).
+# NOTA: Per il CAPO III, il sistema potrebbe non trovare chunk pertinenti se non ci sono articoli che parlano esplicitamente
+# di "costituzione dei gruppi" in relazione alle fasi iniziali. Il test serve a validare il comportamento.
+Descrivi tutti i passaggi iniziali di una legislatura: dalla proclamazione dei deputati, all'elezione del Presidente, fino alla costituzione dei gruppi parlamentari.

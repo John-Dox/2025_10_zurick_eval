@@ -1,0 +1,902 @@
+[
+  {
+    "articolo": "1",
+    "comma": "1",
+    "testo_originale_comma": "1. I deputati entrano nel pieno esercizio delle loro funzioni all'atto della proclamazione.",
+    "keywords": [
+      "pieno esercizio funzioni",
+      "proclamazione deputati",
+      "inizio mandato parlamentare",
+      "effetto della proclamazione"
+    ]
+  },
+  {
+    "articolo": "2",
+    "comma": "1",
+    "testo_originale_comma": "1. L'Assemblea è presieduta, all'apertura di ogni legislatura, dal più anziano per elezione tra i Vicepresidenti della legislatura precedente. Quando nessuno di essi sia presente, si risale ai Vicepresidenti delle legislature anteriori. In loro mancanza, l'Assemblea è presieduta dal decano per età.",
+    "keywords": [
+      "presidenza provvisoria assemblea",
+      "ordine di presidenza",
+      "anzianità per elezione",
+      "decano per età"
+    ]
+  },
+  {
+    "articolo": "2",
+    "comma": "2",
+    "testo_originale_comma": "2. I Segretari provvisori sono quattro, scelti fra quelli delle legislature anteriori secondo il criterio previsto nel comma 1. In loro mancanza, si scelgono i deputati più giovani.",
+    "keywords": [
+      "segretari provvisori",
+      "criteri di nomina",
+      "legislature anteriori",
+      "deputati più giovani"
+    ]
+  },
+  {
+    "articolo": "3",
+    "comma": "1",
+    "testo_originale_comma": "1. Costituito l'Ufficio provvisorio di Presidenza, il Presidente proclama eletti deputati i candidati che subentrano a candidati eletti per la quota proporzionale già proclamati eletti in collegi uninominali, nonché ai deputati optanti tra più circoscrizioni, condizionatamente alla convalida della loro elezione nel collegio uninominale o nella circoscrizione di opzione.",
+    "keywords": [
+      "proclamazione deputati subentranti",
+      "subentro per opzione",
+      "proclamazione condizionata",
+      "candidati plurieletti"
+    ]
+  },
+  {
+    "articolo": "3",
+    "comma": "2",
+    "testo_originale_comma": "2. A tal fine, il Presidente sospende la seduta e convoca immediatamente per i relativi accertamenti una Giunta provvisoria composta dei deputati membri della Giunta delle elezioni della precedente legislatura, che siano presenti alla prima seduta. Qualora il numero di tali deputati sia inferiore a dodici, il Presidente procede mediante sorteggio all'integrazione del collegio sino a raggiungere il numero predetto. La presidenza della Giunta provvisoria è attribuita secondo i criteri di cui al comma 1 dell'articolo 2; assume le funzioni di segretario il deputato più giovane d'età tra i componenti la Giunta provvisoria.",
+    "keywords": [
+      "convocazione giunta provvisoria",
+      "composizione giunta provvisoria",
+      "integrazione mediante sorteggio",
+      "nomina presidenza e segreteria"
+    ]
+  },
+  {
+    "articolo": "4",
+    "comma": "1",
+    "testo_originale_comma": "1. Dopo gli adempimenti previsti negli articoli precedenti, la Camera procede alla elezione del proprio Presidente.",
+    "keywords": [
+      "elezione presidente della camera",
+      "avvio procedura elezione",
+      "adempimenti preliminari elezione",
+      "nomina del presidente"
+    ]
+  },
+  {
+    "articolo": "4",
+    "comma": "2",
+    "testo_originale_comma": "2. L'elezione del Presidente ha luogo per scrutinio segreto a maggioranza dei due terzi dei componenti la Camera. Dal secondo scrutinio è richiesta la maggioranza dei due terzi dei voti computando tra i voti anche le schede bianche. Dopo il terzo scrutinio è sufficiente la maggioranza assoluta dei voti.",
+    "keywords": [
+      "elezione presidente camera",
+      "scrutinio segreto",
+      "quorum di elezione",
+      "maggioranza qualificata e assoluta",
+      "computo schede bianche"
+    ]
+  },
+  {
+    "articolo": "5",
+    "comma": "1",
+    "testo_originale_comma": "1. Eletto il Presidente, si procede all'elezione di quattro Vicepresidenti, di tre Questori e di otto Segretari al fine della costituzione dell'Ufficio di Presidenza.",
+    "keywords": [
+      "elezione ufficio di presidenza",
+      "costituzione ufficio di presidenza",
+      "elezione cariche interne",
+      "membri ufficio di presidenza"
+    ]
+  },
+  {
+    "articolo": "5",
+    "comma": "2",
+    "testo_originale_comma": "2. Per tali elezioni ciascun deputato scrive sulla propria scheda due nomi per i Vicepresidenti, due per i Questori, quattro per i Segretari. Sono eletti coloro che al primo scrutinio hanno ottenuto il maggior numero di voti.",
+    "keywords": [
+      "elezione ufficio presidenza",
+      "modalità di voto",
+      "numero di preferenze",
+      "primo scrutinio"
+    ]
+  },
+  {
+    "articolo": "5",
+    "comma": "3",
+    "testo_originale_comma": "3. Nell'Ufficio di Presidenza devono essere rappresentati tutti i Gruppi parlamentari esistenti all'atto della sua elezione. A questo fine, prima di procedere alle votazioni a norma del comma 2, il Presidente promuove le opportune intese tra i Gruppi.",
+    "keywords": [
+      "rappresentanza gruppi parlamentari",
+      "composizione ufficio di presidenza",
+      "intese tra gruppi",
+      "garanzia di rappresentanza"
+    ]
+  },
+  {
+    "articolo": "5",
+    "comma": "4",
+    "testo_originale_comma": "4. Qualora, a seguito delle votazioni di cui al comma 2, uno o più Gruppi non risultino rappresentati, si procede all'elezione di un corrispondente numero di Segretari, che ha luogo in una successiva seduta, nella data stabilita dal Presidente della Camera.",
+    "keywords": [
+      "elezione integrativa segretari",
+      "mancata rappresentanza gruppi",
+      "garanzia rappresentanza minoranze",
+      "convocazione nuova seduta"
+    ]
+  },
+  {
+    "articolo": "5",
+    "comma": "5",
+    "testo_originale_comma": "5. I Gruppi parlamentari costituiti dopo l'elezione dell'Ufficio di Presidenza effettuata ai sensi del comma 2, qualora non siano già rappresentati nell'Ufficio di Presidenza stesso, e i Gruppi che, a seguito di modificazioni intervenute, vengano a trovarsi privi di un proprio rappresentante possono chiedere che si proceda all'elezione di altri Segretari.",
+    "keywords": [
+      "elezione integrativa segretari",
+      "rappresentanza nuovi gruppi",
+      "perdita rappresentanza gruppo",
+      "integrazione ufficio di presidenza"
+    ]
+  },
+  {
+    "articolo": "5",
+    "comma": "6",
+    "testo_originale_comma": "6. Prima di procedere all'elezione ai sensi dei commi 4 e 5, il Presidente della Camera promuove le opportune intese fra i Gruppi. Nella votazione, ciascun deputato può scrivere sulla scheda un solo nome. Sono eletti coloro che, appartenendo ai Gruppi non rappresentati nell'Ufficio di Presidenza, ottengono il maggior numero di voti. Non è ammessa l'elezione di più di un Segretario per ognuno di tali Gruppi.",
+    "keywords": [
+      "completamento ufficio di presidenza",
+      "rappresentanza delle minoranze",
+      "intese fra gruppi",
+      "limite elezione per gruppo"
+    ]
+  },
+  {
+    "articolo": "5",
+    "comma": "7",
+    "testo_originale_comma": "7. I Segretari eletti ai sensi dei commi 4, 5 e 9 decadono dall'incarico qualora venga meno il Gruppo cui appartenevano al momento dell'elezione, ovvero nel caso in cui essi entrino a far parte di altro Gruppo parlamentare già rappresentato nell'Ufficio di Presidenza.",
+    "keywords": [
+      "decadenza segretari",
+      "cambio gruppo parlamentare",
+      "scioglimento gruppo di appartenenza",
+      "rappresentanza ufficio di presidenza"
+    ]
+  },
+  {
+    "articolo": "5",
+    "comma": "8",
+    "testo_originale_comma": "8. Qualora debbano essere sostituiti componenti dell'Ufficio di Presidenza eletti ai sensi del comma 2, che per qualsiasi causa siano cessati dalle funzioni, il Presidente della Camera fissa la data dell'elezione. Nella votazione, che ha luogo separatamente per la sostituzione di Vicepresidenti, Questori o Segretari, ciascun deputato può scrivere sulla scheda un solo nome, se i componenti da eleggere sono in numero non superiore a due; se sono in numero superiore, si applica l'articolo 56, comma 1. Sono eletti coloro che ottengono il maggior numero di voti.",
+    "keywords": [
+      "elezione suppletiva",
+      "sostituzione ufficio di presidenza",
+      "modalità di voto",
+      "cessazione dalle funzioni"
+    ]
+  },
+  {
+    "articolo": "5",
+    "comma": "9",
+    "testo_originale_comma": "9. Qualora per qualsiasi causa cessino dalle funzioni i componenti dell'Ufficio di Presidenza eletti ai sensi dei commi 4 e 5, su richiesta dei Gruppi che a seguito di ciò vengano a trovarsi privi di un proprio rappresentante, si procede a nuova elezione ai sensi del comma 6.",
+    "keywords": [
+      "surroga ufficio di presidenza",
+      "cessazione funzioni componenti",
+      "nuova elezione",
+      "rappresentanza dei gruppi"
+    ]
+  },
+  {
+    "articolo": "6",
+    "comma": "1",
+    "testo_originale_comma": "1. Lo spoglio delle schede per la elezione del Presidente è compiuto in seduta pubblica dall'Ufficio provvisorio di Presidenza.",
+    "keywords": [
+      "spoglio schede",
+      "elezione presidente",
+      "ufficio provvisorio di presidenza",
+      "seduta pubblica"
+    ]
+  },
+  {
+    "articolo": "6",
+    "comma": "2",
+    "testo_originale_comma": "2. Lo spoglio delle schede per le altre elezioni è compiuto da dodici deputati estratti a sorte. La presenza di sette deputati è necessaria per la validità delle operazioni di scrutinio.",
+    "keywords": [
+      "deputati scrutinatori",
+      "estrazione a sorte",
+      "quorum per lo scrutinio",
+      "validità spoglio schede"
+    ]
+  },
+  {
+    "articolo": "7",
+    "comma": "1",
+    "testo_originale_comma": "1. Il Presidente della Camera informa della costituzione dell'Ufficio di Presidenza il Presidente della Repubblica e il Senato.",
+    "keywords": [
+      "comunicazione istituzionale",
+      "costituzione ufficio di presidenza",
+      "rapporti interistituzionali",
+      "adempimenti del presidente"
+    ]
+  },
+  {
+    "articolo": "8",
+    "comma": "1",
+    "testo_originale_comma": "1. Il Presidente rappresenta la Camera. Assicura il buon andamento dei suoi lavori, facendo osservare il Regolamento, e dell'amministrazione interna. Sovrintende a tal fine alle funzioni attribuite ai Questori e ai Segretari.",
+    "keywords": [
+      "rappresentanza della camera",
+      "direzione dei lavori",
+      "osservanza del regolamento",
+      "supervisione questori e segretari"
+    ]
+  },
+  {
+    "articolo": "8",
+    "comma": "2",
+    "testo_originale_comma": "2. In applicazione delle norme del Regolamento, il Presidente dà la parola, dirige e modera la discussione, mantiene l'ordine, pone le questioni, stabilisce l'ordine delle votazioni, chiarisce il significato del voto e ne annunzia il risultato.",
+    "keywords": [
+      "poteri del presidente",
+      "direzione della discussione",
+      "gestione delle votazioni",
+      "mantenimento dell'ordine"
+    ]
+  },
+  {
+    "articolo": "9",
+    "comma": "1",
+    "testo_originale_comma": "1. I Vicepresidenti collaborano con il Presidente; a tal fine possono essere da lui convocati ogni qualvolta lo ritenga opportuno. Sostituiscono il Presidente in caso di assenza o di impedimento.",
+    "keywords": [
+      "sostituzione presidente",
+      "collaborazione vicepresidenti",
+      "funzioni vicarie",
+      "impedimento del presidente"
+    ]
+  },
+  {
+    "articolo": "10",
+    "comma": "1",
+    "testo_originale_comma": "1. I Questori curano collegialmente il buon andamento dell'amministrazione della Camera, vigilando sull'applicazione delle relative norme e delle direttive del Presidente.",
+    "keywords": [
+      "funzioni dei questori",
+      "amministrazione della camera",
+      "gestione collegiale",
+      "vigilanza amministrativa"
+    ]
+  },
+  {
+    "articolo": "10",
+    "comma": "2",
+    "testo_originale_comma": "2. Essi sovrintendono alle spese della Camera e predispongono il progetto di bilancio e il conto consuntivo. Sovrintendono inoltre al cerimoniale e al mantenimento dell'ordine nella sede della Camera secondo le disposizioni del Presidente.",
+    "keywords": [
+      "gestione bilancio e spese",
+      "conto consuntivo",
+      "ordine e cerimoniale"
+    ]
+  },
+  {
+    "articolo": "11",
+    "comma": "1",
+    "testo_originale_comma": "1. I Segretari sovrintendono alla redazione del processo verbale, che deve contenere soltanto le deliberazioni e gli atti della Camera; ne danno lettura; formano, secondo l'ordine delle richieste, l'elenco dei deputati iscritti a parlare; danno lettura delle proposte e dei documenti; tengono nota delle deliberazioni; procedono agli appelli; collaborano con il Presidente per assicurare la regolarità delle operazioni di voto; registrano, quando occorra, i singoli voti; accertano che il resoconto stenografico sia pubblicato nel termine prescritto dal Presidente e non vi sia alterazione dei discorsi; concorrono al regolare andamento dei lavori della Camera secondo le disposizioni del Presidente.",
+    "keywords": [
+      "compiti dei segretari",
+      "redazione processo verbale",
+      "regolarità operazioni di voto",
+      "gestione lavori d'aula"
+    ]
+  },
+  {
+    "articolo": "12",
+    "comma": "1",
+    "testo_originale_comma": "1. Il Presidente della Camera convoca l'Ufficio di Presidenza e ne fissa l'ordine del giorno.",
+    "keywords": [
+      "convocazione ufficio di presidenza",
+      "fissazione ordine del giorno",
+      "poteri del presidente",
+      "agenda ufficio presidenza"
+    ]
+  },
+  {
+    "articolo": "12",
+    "comma": "2",
+    "testo_originale_comma": "2. L'Ufficio di Presidenza delibera il progetto di bilancio preventivo e il rendiconto consuntivo della Camera predisposti dai Questori; decide i ricorsi circa la costituzione o la prima convocazione dei Gruppi, nonché i ricorsi dei Gruppi sulla composizione delle Commissioni parlamentari; approva il regolamento della biblioteca della Camera e vigila sul suo funzionamento attraverso un apposito comitato.",
+    "keywords": [
+      "delibera bilancio camera",
+      "ricorsi gruppi parlamentari",
+      "competenze ufficio di presidenza",
+      "regolamento biblioteca camera"
+    ]
+  },
+  {
+    "articolo": "12",
+    "comma": "3",
+    "testo_originale_comma": "3. L'Ufficio di Presidenza adotta i regolamenti e le altre norme concernenti: a) le condizioni e le modalità per l'ammissione degli estranei nella sede della Camera; b) l'amministrazione e la contabilità interna; c) l'ordinamento degli uffici e i compiti ad essi attribuiti, strumentali all'esercizio delle funzioni parlamentari; d) lo stato giuridico, il trattamento economico e di quiescenza e la disciplina dei dipendenti della Camera, ivi compresi i doveri relativi al segreto d'ufficio; e) i criteri per l'affidamento a soggetti estranei alla Camera di attività non direttamente strumentali all'esercizio delle funzioni parlamentari, nonché i doveri di riservatezza e gli altri obblighi alla cui osservanza tali soggetti sono tenuti, anche nei confronti di organi estranei alla Camera; f) i ricorsi nelle materie di cui alla lettera d), nonché i ricorsi e qualsiasi impugnativa, anche presentata da soggetti estranei alla Camera, avverso gli altri atti di amministrazione della Camera medesima.",
+    "keywords": [
+      "poteri regolamentari ufficio di presidenza",
+      "amministrazione interna camera",
+      "gestione personale camera",
+      "giustizia amministrativa interna"
+    ]
+  },
+  {
+    "articolo": "12",
+    "comma": "4",
+    "testo_originale_comma": "4. L'Ufficio di Presidenza nomina, su proposta del Presidente, il Segretario generale della Camera.",
+    "keywords": [
+      "nomina segretario generale",
+      "proposta del presidente",
+      "poteri ufficio di presidenza",
+      "segretario generale camera"
+    ]
+  },
+  {
+    "articolo": "12",
+    "comma": "5",
+    "testo_originale_comma": "5. Le deliberazioni adottate dall'Ufficio di Presidenza ai sensi dei commi 3 e 4 sono rese esecutive mediante decreti del Presidente della Camera.",
+    "keywords": [
+      "decreti del presidente",
+      "esecutività deliberazioni",
+      "attuazione delibere ufficio presidenza"
+    ]
+  },
+  {
+    "articolo": "12",
+    "comma": "6",
+    "testo_originale_comma": "6. Con regolamento approvato dall’Ufficio di Presidenza sono istituiti gli organi interni di primo e di secondo grado, composti da deputati in carica, che giudicano in via esclusiva sui ricorsi di cui alla lettera f) del comma 3. I componenti dell’Ufficio di Presidenza non possono fare parte di tali organi.",
+    "keywords": [
+      "organi di giurisdizione interna",
+      "giudizio sui ricorsi",
+      "incompatibilità ufficio di presidenza",
+      "autodichia"
+    ]
+  },
+  {
+    "articolo": "12",
+    "comma": "7",
+    "testo_originale_comma": "7. L'Ufficio di Presidenza, convocato il deputato interessato, decide sulle sanzioni proposte dal Presidente nei casi previsti nei commi 3 e 4 dell'articolo 60.",
+    "keywords": [
+      "decisione sanzioni disciplinari",
+      "potere sanzionatorio ufficio presidenza",
+      "procedimento disciplinare deputato"
+    ]
+  },
+  {
+    "articolo": "12",
+    "comma": "8",
+    "testo_originale_comma": "8. L'Ufficio di Presidenza resta in carica, quando viene rinnovata la Camera, fino alla prima riunione della nuova Assemblea.",
+    "keywords": [
+      "prorogatio ufficio di presidenza",
+      "continuità organi camera",
+      "durata mandato transitorio",
+      "rinnovo della camera"
+    ]
+  },
+  {
+    "articolo": "13",
+    "comma": "1",
+    "testo_originale_comma": "1. La Conferenza dei presidenti di Gruppo è convocata dal Presidente della Camera, ogniqualvolta lo ritenga utile, anche su richiesta del Governo o di un presidente di Gruppo, per esaminare lo svolgimento dei lavori dell'Assemblea e delle Commissioni. Il Governo è sempre informato dal Presidente del giorno e dell'ora della riunione per farvi intervenire un proprio rappresentante.",
+    "keywords": [
+      "convocazione conferenza presidenti di gruppo",
+      "programmazione lavori parlamentari",
+      "richiesta di convocazione",
+      "partecipazione governo"
+    ]
+  },
+  {
+    "articolo": "13",
+    "comma": "2",
+    "testo_originale_comma": "2. Alla Conferenza possono essere invitati i Vicepresidenti della Camera e i presidenti delle Commissioni parlamentari. Il Presidente, ove la straordinaria importanza della questione da esaminare lo richieda, può altresì invitare a partecipare un rappresentante per ciascuna delle componenti politiche del Gruppo misto alle quali appartengano almeno dieci deputati, nonché un rappresentante della componente formata dai deputati appartenenti alle minoranze linguistiche di cui all'articolo 14, comma 5. Per le deliberazioni concernenti l'organizzazione dei lavori, di cui agli articoli 23 e 24, si considera soltanto la posizione espressa a nome del Gruppo misto dal suo presidente. (*)",
+    "keywords": [
+      "partecipazione estesa alla conferenza",
+      "rappresentanza componenti gruppo misto",
+      "potere di invito del presidente",
+      "posizione unitaria gruppo misto"
+    ]
+  },
+  {
+    "articolo": "14",
+    "comma": "01",
+    "testo_originale_comma": "01. I Gruppi parlamentari sono associazioni di deputati la cui costituzione avviene secondo le disposizioni recate nel presente articolo. Ai Gruppi parlamentari, in quanto soggetti necessari al funzionamento della Camera, secondo quanto previsto dalla Costituzione e dal Regolamento, sono assicurate a carico del bilancio della Camera le risorse necessarie allo svolgimento della loro attività. (*)",
+    "keywords": [
+      "costituzione gruppi parlamentari",
+      "finanziamento gruppi parlamentari",
+      "risorse dal bilancio della camera",
+      "necessità per funzionamento camera"
+    ]
+  },
+  {
+    "articolo": "14",
+    "comma": "1",
+    "testo_originale_comma": "1. Per costituire un Gruppo parlamentare occorre un numero minimo di venti deputati. (**)",
+    "keywords": [
+      "costituzione gruppo parlamentare",
+      "numero minimo deputati",
+      "requisito numerico",
+      "soglia di costituzione"
+    ]
+  },
+  {
+    "articolo": "14",
+    "comma": "2",
+    "testo_originale_comma": "2. L'Ufficio di Presidenza può autorizzare la costituzione di un Gruppo con meno di venti iscritti purché questo rappresenti un partito organizzato nel Paese che abbia presentato, con il medesimo contrassegno, in almeno venti collegi, proprie liste di candidati, le quali abbiano ottenuto almeno un quoziente in un collegio e una cifra elettorale nazionale di almeno trecentomila voti di lista validi. (**)",
+    "keywords": [
+      "costituzione gruppo in deroga",
+      "deroga numero minimo iscritti",
+      "requisiti elettorali partito",
+      "autorizzazione ufficio di presidenza"
+    ]
+  },
+  {
+    "articolo": "14",
+    "comma": "3",
+    "testo_originale_comma": "3. Entro due giorni dalla prima seduta, i deputati devono dichiarare al Segretario generale della Camera a quale Gruppo appartengono.",
+    "keywords": [
+      "dichiarazione di appartenenza",
+      "costituzione gruppi parlamentari",
+      "termine per la dichiarazione",
+      "obbligo dei deputati"
+    ]
+  },
+  {
+    "articolo": "14",
+    "comma": "4",
+    "testo_originale_comma": "4. I deputati i quali non abbiano fatto la dichiarazione prevista nel comma 3, o non appartengano ad alcun Gruppo, costituiscono un unico Gruppo misto.",
+    "keywords": [
+      "costituzione gruppo misto",
+      "deputati non iscritti",
+      "confluenza gruppo misto",
+      "mancata dichiarazione di gruppo"
+    ]
+  },
+  {
+    "articolo": "14",
+    "comma": "5",
+    "testo_originale_comma": "5. I deputati appartenenti al Gruppo misto possono chiedere al Presidente della Camera di formare componenti politiche in seno ad esso, a condizione che ciascuna consista di almeno dieci deputati. Possono essere altresì formate componenti di consistenza inferiore, purché vi aderiscano deputati, in numero non minore di tre, i quali rappresentino un partito o movimento politico la cui esistenza, alla data di svolgimento delle elezioni per la Camera dei deputati, risulti in forza di elementi certi e inequivoci, e che abbia presentato, anche congiuntamente con altri, liste di candidati ovvero candidature nei collegi uninominali. Un'unica componente politica all'interno del Gruppo misto può essere altresì costituita da deputati, in numero non inferiore a tre, appartenenti a minoranze linguistiche tutelate dalla Costituzione e individuate dalla legge, i quali siano stati eletti, sulla base o in collegamento con liste che di esse siano espressione, nelle zone in cui tali minoranze sono tutelate. (***)",
+    "keywords": [
+      "componenti politiche gruppo misto",
+      "soglie costituzione componenti",
+      "deroga per partiti politici",
+      "componenti minoranze linguistiche"
+    ]
+  },
+  {
+    "articolo": "15",
+    "comma": "1",
+    "testo_originale_comma": "1. Entro quattro giorni dalla prima seduta, il Presidente della Camera indìce le convocazioni, simultanee ma separate, dei deputati appartenenti a ciascun Gruppo parlamentare e di quelli da iscrivere nel Gruppo misto.",
+    "keywords": [
+      "costituzione gruppi parlamentari",
+      "indizione convocazioni",
+      "prima seduta camera",
+      "termine quattro giorni"
+    ]
+  },
+  {
+    "articolo": "15",
+    "comma": "2",
+    "testo_originale_comma": "2. Ciascun Gruppo, nella prima riunione, nomina il presidente, uno o più vicepresidenti e un comitato direttivo. Nell'ambito di tali organi il Gruppo indica il deputato o i deputati, in numero non superiore a tre, ai quali affida, in caso di assenza o impedimento del proprio presidente, l'esercizio dei poteri a questo attribuiti dal Regolamento. Della costituzione di tali organi come di ogni successivo mutamento nella loro composizione è data comunicazione al Presidente della Camera.",
+    "keywords": [
+      "nomina organi direttivi",
+      "supplenza presidente di gruppo",
+      "comitato direttivo",
+      "comunicazione presidente camera"
+    ]
+  },
+  {
+    "articolo": "15",
+    "comma": "2-bis",
+    "testo_originale_comma": "2-bis. Entro trenta giorni dalla propria costituzione, ciascun Gruppo approva uno statuto, che è trasmesso al Presidente della Camera entro i successivi cinque giorni. Lo statuto individua in ogni caso nell’assemblea del Gruppo l’organo competente ad approvare, a maggioranza, il rendiconto di cui all'articolo 15-ter e indica l'organo responsabile per la gestione amministrativa e contabile del Gruppo.",
+    "keywords": [
+      "statuto gruppo parlamentare",
+      "approvazione statuto",
+      "contenuto obbligatorio statuto",
+      "organo gestione amministrativa",
+      "approvazione rendiconto gruppo"
+    ]
+  },
+  {
+    "articolo": "15",
+    "comma": "2-ter",
+    "testo_originale_comma": "2-ter. Lo statuto prevede le modalità secondo le quali l'organo responsabile per la gestione amministrativa e contabile destina le risorse alle finalità di cui al comma 4. Lo statuto è pubblicato sul sito internet della Camera.",
+    "keywords": [
+      "statuto e destinazione risorse",
+      "pubblicazione statuto gruppo",
+      "modalità gestione amministrativa"
+    ]
+  },
+  {
+    "articolo": "15",
+    "comma": "2-quater",
+    "testo_originale_comma": "2-quater. Lo statuto individua le forme di pubblicità dei documenti relativi all’organizzazione interna del Gruppo, anche con riferimento agli emolumenti per il personale.",
+    "keywords": [
+      "pubblicità documenti interni",
+      "trasparenza emolumenti personale",
+      "obblighi dello statuto",
+      "organizzazione del gruppo"
+    ]
+  },
+  {
+    "articolo": "15",
+    "comma": "3",
+    "testo_originale_comma": "3. Per l'esplicazione delle loro funzioni ai Gruppi parlamentari è assicurata la disponibilità di locali e attrezzature, secondo modalità stabilite dall’Ufficio di Presidenza, tenendo presenti le esigenze di base comuni ad ogni Gruppo e la consistenza numerica dei Gruppi stessi. E’ altresì assicurato annualmente a ciascun Gruppo un contributo finanziario a carico del bilancio della Camera, unico e onnicomprensivo, a copertura di tutte le spese di cui al comma 4, incluse quelle per il personale, secondo modalità stabilite dall’Ufficio di Presidenza. Il contributo è determinato avendo riguardo alla consistenza numerica di ciascun Gruppo. Le dotazioni ed i contributi assegnati al Gruppo misto sono determinati avendo riguardo al numero e alla consistenza delle componenti politiche in esso costituite, in modo tale da poter essere ripartite fra le stesse in ragione delle esigenze di base comuni e della consistenza numerica di ciascuna componente.",
+    "keywords": [
+      "contributo finanziario ai gruppi",
+      "assegnazione locali e attrezzature",
+      "criteri di assegnazione",
+      "consistenza numerica gruppi",
+      "ripartizione gruppo misto"
+    ]
+  },
+  {
+    "articolo": "15",
+    "comma": "4",
+    "testo_originale_comma": "4. I contributi di cui al comma 3 sono destinati dai Gruppi esclusivamente agli scopi istituzionali riferiti all'attività parlamentare e alle funzioni di studio, editoria e comunicazione ad essa ricollegabili, nonché alle spese per il funzionamento degli organi e delle strutture dei Gruppi, ivi comprese quelle relative ai trattamenti economici.",
+    "keywords": [
+      "destinazione fondi gruppi",
+      "spese istituzionali ammesse",
+      "vincolo utilizzo contributi",
+      "funzionamento organi e strutture"
+    ]
+  },
+  {
+    "articolo": "15-bis",
+    "comma": "1",
+    "testo_originale_comma": "1. Gli organi direttivi del Gruppo misto sono costituiti nei termini e con le modalità di cui all'articolo 15. La loro costituzione deve rispecchiare le varie componenti politiche del medesimo Gruppo. I membri delle componenti politiche così eletti rappresentano la componente alla quale appartengono nei rapporti con gli altri organi della Camera.",
+    "keywords": [
+      "organi direttivi gruppo misto",
+      "componenti politiche",
+      "rappresentanza delle componenti",
+      "pluralismo nel gruppo misto"
+    ]
+  },
+  {
+    "articolo": "15-bis",
+    "comma": "2",
+    "testo_originale_comma": "2. Gli organi direttivi del Gruppo misto assumono le deliberazioni di loro competenza tenendo proporzionalmente conto della consistenza numerica delle componenti politiche in esso costituite. Qualora alcuna fra le componenti politiche costituite nel Gruppo ritenga che da una deliberazione, assunta in violazione del criterio predetto, risulti pregiudicato un proprio fondamentale diritto politico, può ricorrere al Presidente della Camera avverso tale deliberazione. Il Presidente decide, uditi, ove lo ritenga, il presidente del Gruppo misto e i rappresentanti delle altre componenti politiche nel medesimo costituite, ovvero sottopone la questione all'Ufficio di Presidenza.",
+    "keywords": [
+      "proporzionalità gruppo misto",
+      "ricorso al presidente",
+      "tutela componenti politiche",
+      "controversie interne gruppo"
+    ]
+  },
+  {
+    "articolo": "15-ter",
+    "comma": "1",
+    "testo_originale_comma": "1. Ciascun Gruppo approva un rendiconto di esercizio annuale, strutturato secondo un modello comune approvato dall'Ufficio di Presidenza. In ogni caso il rendiconto deve evidenziare espressamente, in apposite voci, le risorse trasferite al Gruppo dalla Camera, con indicazione del titolo del trasferimento.",
+    "keywords": [
+      "rendiconto di esercizio annuale",
+      "modello comune rendiconto",
+      "risorse trasferite dalla camera",
+      "trasparenza fondi gruppi"
+    ]
+  },
+  {
+    "articolo": "15-ter",
+    "comma": "2",
+    "testo_originale_comma": "2. Allo scopo di garantire la trasparenza e la correttezza nella gestione contabile e finanziaria, i Gruppi si avvalgono di una società di revisione legale, selezionata dall'Ufficio di Presidenza con procedura ad evidenza pubblica, che verifica nel corso dell'esercizio la regolare tenuta della contabilità e la corretta rilevazione dei fatti di gestione nelle scritture contabili ed esprime un giudizio sul rendiconto di cui al comma 1.",
+    "keywords": [
+      "revisione legale dei gruppi",
+      "trasparenza contabile",
+      "giudizio sul rendiconto",
+      "selezione società di revisione"
+    ]
+  },
+  {
+    "articolo": "15-ter",
+    "comma": "3",
+    "testo_originale_comma": "3. Il rendiconto è trasmesso al Presidente della Camera, corredato da una dichiarazione del presidente del Gruppo che ne attesta l'avvenuta approvazione da parte dell'organo statutariamente competente e dalla relazione della società di revisione di cui al comma 2. I rendiconti sono pubblicati come allegato al conto consuntivo della Camera.",
+    "keywords": [
+      "trasmissione rendiconto al presidente",
+      "certificazione del rendiconto",
+      "pubblicazione rendiconti"
+    ]
+  },
+  {
+    "articolo": "15-ter",
+    "comma": "4",
+    "testo_originale_comma": "4. Il controllo della conformità del rendiconto presentato da ciascun Gruppo alle prescrizioni del Regolamento è effettuato a cura del Collegio dei Questori, secondo forme e modalità stabilite dall'Ufficio di Presidenza.",
+    "keywords": [
+      "controllo conformità rendiconto",
+      "collegio dei questori",
+      "ufficio di presidenza"
+    ]
+  },
+  {
+    "articolo": "15-ter",
+    "comma": "5",
+    "testo_originale_comma": "5. L'erogazione delle risorse finanziarie a carico del bilancio della Camera a favore dei Gruppi è autorizzata dal Collegio dei Questori, subordinatamente all'esito positivo del controllo di cui al comma 4.",
+    "keywords": [
+      "autorizzazione collegio questori",
+      "erogazione fondi gruppi",
+      "finanziamento subordinato a controllo",
+      "bilancio camera"
+    ]
+  },
+  {
+    "articolo": "15-ter",
+    "comma": "6",
+    "testo_originale_comma": "6. Il Collegio dei Questori riferisce all'Ufficio di Presidenza sulle risultanze dell'attività svolta ai sensi dei commi 4 e 5.",
+    "keywords": [
+      "relazione del collegio dei questori",
+      "controllo sui rendiconti",
+      "comunicazione all'ufficio di presidenza",
+      "risultanze del controllo"
+    ]
+  },
+  {
+    "articolo": "15-ter",
+    "comma": "7",
+    "testo_originale_comma": "7. Ove il Gruppo non trasmetta il rendiconto entro il termine individuato ai sensi del comma 8, decade dal diritto all'erogazione, per l'anno in corso, delle risorse di cui al comma 5. Ove il Collegio dei Questori riscontri che il rendiconto o la documentazione trasmessa a corredo dello stesso non sia conforme alle prescrizioni stabilite a norma del presente articolo, entro dieci giorni dal ricevimento del rendiconto invita il presidente del Gruppo a provvedere alla relativa regolarizzazione, fissandone il termine. Nel caso in cui il Gruppo non provveda alla regolarizzazione entro il termine fissato, esso decade dal diritto all'erogazione, per l'anno in corso, delle risorse di cui al comma 5. La decadenza di cui al presente comma è accertata con deliberazione dell'Ufficio di Presidenza, su proposta del Collegio dei Questori, e comporta altresì l’obbligo di restituire le somme ricevute a carico del bilancio della Camera e non rendicontate, secondo modalità stabilite dall’Ufficio di Presidenza.",
+    "keywords": [
+      "sanzioni mancata rendicontazione",
+      "decadenza dal finanziamento",
+      "procedura di regolarizzazione",
+      "obbligo di restituzione somme"
+    ]
+  },
+  {
+    "articolo": "15-ter",
+    "comma": "8",
+    "testo_originale_comma": "8. L'Ufficio di Presidenza disciplina i termini e le modalità per l'attuazione del presente articolo, ivi compresa la disciplina da applicare in caso di scioglimento di un Gruppo. Apposite disposizioni sono dettate per il Gruppo misto.",
+    "keywords": [
+      "regolamentazione ufficio di presidenza",
+      "scioglimento gruppo parlamentare",
+      "disciplina gruppo misto",
+      "modalità attuative"
+    ]
+  },
+  {
+    "articolo": "16",
+    "comma": "1",
+    "testo_originale_comma": "1. La Giunta per il Regolamento della Camera è composta di dieci deputati nominati dal Presidente non appena costituiti i Gruppi parlamentari. Essa è presieduta dallo stesso Presidente della Camera, il quale, udito il parere della stessa Giunta, può integrarne la composizione ai fini di una più adeguata rappresentatività tenendo presenti, per quanto possibile, criteri di proporzionalità tra i vari Gruppi.",
+    "keywords": [
+      "composizione giunta regolamento",
+      "nomina componenti giunta",
+      "presidenza giunta regolamento",
+      "integrazione composizione",
+      "criterio di proporzionalità"
+    ]
+  },
+  {
+    "articolo": "16",
+    "comma": "2",
+    "testo_originale_comma": "2. Alla Giunta sono deferiti lo studio delle proposte relative al Regolamento, i pareri sulle questioni di interpretazione del Regolamento medesimo nonché la soluzione dei conflitti di competenza tra le Commissioni nei casi previsti nel comma 4 dell'articolo 72 e nel comma 4 dell'articolo 93.",
+    "keywords": [
+      "interpretazione regolamento",
+      "conflitti di competenza commissioni",
+      "proposte modifica regolamento",
+      "pareri giunta regolamento"
+    ]
+  },
+  {
+    "articolo": "16",
+    "comma": "3",
+    "testo_originale_comma": "3. La Giunta propone all'Assemblea le modificazioni e le aggiunte al Regolamento che l’esperienza dimostri necessarie.",
+    "keywords": [
+      "modifica regolamento",
+      "iniziativa regolamentare",
+      "funzioni giunta regolamento",
+      "proposta all'assemblea"
+    ]
+  },
+  {
+    "articolo": "16",
+    "comma": "3-bis",
+    "testo_originale_comma": "3-bis. La proposta della Giunta è discussa secondo le norme del capo VIII. Nel corso della discussione ciascun deputato può presentare una proposta contenente principî e criteri direttivi per la riformulazione del testo della Giunta. Al termine della discussione le proposte possono essere illustrate per non più di dieci minuti ciascuna e sono poste in votazione previa dichiarazione di voto di un deputato per Gruppo per non più di cinque minuti ciascuno. Il Presidente concede la parola ai deputati che intendono esprimere un voto diverso rispetto a quello dichiarato dal proprio Gruppo, stabilendone le modalità ed i limiti di tempo. E' ammessa la richiesta di votazione per parti separate in relazione a singoli principî e criteri direttivi.",
+    "keywords": [
+      "proposte di riformulazione",
+      "dichiarazione di voto",
+      "voto in dissenso",
+      "votazione per parti separate"
+    ]
+  },
+  {
+    "articolo": "16",
+    "comma": "3-ter",
+    "testo_originale_comma": "3-ter. Qualora tutte le proposte contenenti principî e criteri direttivi siano state respinte, si passa alla votazione della proposta della Giunta, previo svolgimento delle dichiarazioni di voto. Ove una o più di tali proposte siano state approvate, la Giunta presenta un nuovo testo che recepisce i principî e i criteri direttivi approvati dall'Assemblea. Nel caso in cui un presidente di Gruppo o quattordici deputati esprimano dissenso sul modo in cui le deliberazioni dell'Assemblea sono state recepite, possono presentare proposte interamente sostitutive del testo della Giunta nel senso da essi ritenuto conforme ai principî e criteri direttivi approvati. Per l'ammissibilità delle proposte si applica l'articolo 89.",
+    "keywords": [
+      "recepimento principi direttivi",
+      "proposte sostitutive testo giunta",
+      "dissenso sul recepimento",
+      "votazione proposta giunta"
+    ]
+  },
+  {
+    "articolo": "16",
+    "comma": "4",
+    "testo_originale_comma": "4. Il testo della Giunta è approvato a maggioranza assoluta dei componenti la Camera, a norma dell'articolo 64 della Costituzione. In caso di mancata approvazione di tale testo sono poste in votazione, con le stesse modalità, le proposte sostitutive di cui al comma 3-ter, cominciando dalla proposta che più si avvicina al testo della Giunta. E' consentita una dichiarazione di voto ad un deputato per Gruppo. Non è ammessa la votazione per parti separate.",
+    "keywords": [
+      "maggioranza assoluta",
+      "procedura di votazione",
+      "proposte sostitutive",
+      "dichiarazione di voto",
+      "divieto voto separato"
+    ]
+  },
+  {
+    "articolo": "16",
+    "comma": "4-bis",
+    "testo_originale_comma": "4-bis. La domanda di votazione nominale o per scrutinio segreto deve essere presentata, a norma del comma 2 dell'articolo 51, prima dell'inizio della discussione. Qualora non sia stata richiesta la votazione qualificata, si procede con votazione nominale allorché sia necessario constatare la maggioranza di cui all'articolo 64 della Costituzione.",
+    "keywords": [
+      "votazione nominale",
+      "termini richiesta votazione",
+      "scrutinio segreto",
+      "verifica maggioranza costituzionale"
+    ]
+  },
+  {
+    "articolo": "16",
+    "comma": "5",
+    "testo_originale_comma": "5. Le disposizioni modificative e aggiuntive al Regolamento sono pubblicate nella Gazzetta Ufficiale della Repubblica.",
+    "keywords": [
+      "pubblicazione gazzetta ufficiale",
+      "modifiche regolamento camera",
+      "fonti del diritto parlamentare",
+      "vigenza norme regolamentari"
+    ]
+  },
+  {
+    "articolo": "16-bis",
+    "comma": "1",
+    "testo_originale_comma": "1. Il Comitato per la legislazione è composto di dieci deputati, scelti dal Presidente della Camera in modo da garantire la rappresentanza paritaria della maggioranza e delle opposizioni.",
+    "keywords": [
+      "composizione comitato legislazione",
+      "nomina presidente della camera",
+      "rappresentanza paritaria maggioranza-opposizione"
+    ]
+  },
+  {
+    "articolo": "16-bis",
+    "comma": "2",
+    "testo_originale_comma": "2. Il Comitato è presieduto, a turno, da uno dei suoi componenti, per la durata di dieci mesi ciascuno.",
+    "keywords": [
+      "presidenza a turno",
+      "rotazione presidenza comitato",
+      "durata mandato presidente"
+    ]
+  },
+  {
+    "articolo": "16-bis",
+    "comma": "3",
+    "testo_originale_comma": "3. Il Comitato esprime pareri alle Commissioni sui progetti di legge da queste esaminati, secondo quanto previsto dal comma 4. Il parere è espresso entro i termini indicati all'articolo 73, comma 2, decorrenti dal giorno della richiesta formulata dalla Commissione competente. All'esame presso il Comitato partecipano il relatore e il rappresentante del Governo.",
+    "keywords": [
+      "parere del comitato",
+      "termini per parere",
+      "esame progetti di legge",
+      "partecipazione del relatore"
+    ]
+  },
+  {
+    "articolo": "16-bis",
+    "comma": "4",
+    "testo_originale_comma": "4. Qualora ne sia fatta richiesta da almeno un quinto dei loro componenti, le Commissioni trasmettono al Comitato i progetti di legge affinché esso esprima parere sulla qualità dei testi, con riguardo alla loro omogeneità, alla semplicità, chiarezza e proprietà della loro formulazione, nonché all'efficacia di essi per la semplificazione e il riordinamento della legislazione vigente. Il parere è richiesto non prima della scelta del testo adottato come base per il seguito dell'esame. La richiesta deve essere presentata entro termini compatibili con la programmazione dei lavori della Commissione e dell'Assemblea relativamente al progetto di legge al quale è riferita, e non determina comunque modificazione al calendario dei lavori dell'Assemblea o della Commissione. Al termine dell'esame, il Comitato esprime un parere, sulla base dei criteri e dei requisiti tecnici definiti dalle norme costituzionali e ordinarie e dal Regolamento.",
+    "keywords": [
+      "parere sulla qualità dei testi",
+      "qualità della normazione",
+      "richiesta di parere delle commissioni",
+      "semplificazione legislativa"
+    ]
+  },
+  {
+    "articolo": "16-bis",
+    "comma": "5",
+    "testo_originale_comma": "5. Il parere reso dal Comitato alle Commissioni in sede referente è stampato e allegato alla relazione per l'Assemblea. Su richiesta di uno o più membri del Comitato che abbiano espresso opinioni dissenzienti, il parere dà conto di esse e delle loro motivazioni.",
+    "keywords": [
+      "parere del comitato",
+      "allegato alla relazione",
+      "opinioni dissenzienti",
+      "motivazioni del dissenso"
+    ]
+  },
+  {
+    "articolo": "16-bis",
+    "comma": "6",
+    "testo_originale_comma": "6. Qualora le Commissioni che procedono in sede referente non intendano adeguare il testo del progetto di legge alle condizioni contenute nel parere del Comitato, debbono indicarne le ragioni nella relazione per l'Assemblea. Ove il progetto di legge sia esaminato in sede legislativa o redigente, si applicano, rispettivamente, le disposizioni degli articoli 93, comma 3, e 96, comma 4.",
+    "keywords": [
+      "obbligo di motivazione",
+      "parere non vincolante",
+      "relazione per l'assemblea",
+      "rinvio normativo"
+    ]
+  },
+  {
+    "articolo": "16-bis",
+    "comma": "6-bis",
+    "testo_originale_comma": "6-bis. Le Commissioni, immediatamente dopo avere proceduto alla scelta del testo adottato come base per il seguito dell'esame ovvero, in mancanza, a conclusione dell'esame preliminare di cui all'articolo 79, comma 2, trasmettono al Comitato i progetti di legge recanti norme di delegazione legislativa o disposizioni volte a trasferire alla potestà regolamentare del Governo o di altri soggetti materie già disciplinate con legge. Il Comitato esprime il proprio parere a norma dei commi 3, 4 e 5 e con gli effetti di cui al comma 6.",
+    "keywords": [
+      "delegazione legislativa",
+      "delegificazione",
+      "parere comitato legislazione",
+      "trasmissione progetti di legge"
+    ]
+  },
+  {
+    "articolo": "16-bis",
+    "comma": "7",
+    "testo_originale_comma": "7. Il Presidente della Camera, qualora ne ravvisi la necessità, può convocare congiuntamente il Comitato per la legislazione e la Giunta per il Regolamento.",
+    "keywords": [
+      "convocazione congiunta",
+      "potere del presidente della camera",
+      "comitato per la legislazione e giunta",
+      "convocazione per necessità"
+    ]
+  },
+  {
+    "articolo": "17",
+    "comma": "1",
+    "testo_originale_comma": "1. La Giunta delle elezioni è composta di trenta deputati, nominati dal Presidente non appena costituiti i Gruppi parlamentari. Essa riferisce all’Assemblea, non oltre diciotto mesi dalle elezioni, sulla regolarità delle operazioni elettorali, sui titoli di ammissione dei deputati e sulle cause di ineleggibilità, di incompatibilità e di decadenza previste dalla legge, formulando le relative proposte di convalida, annullamento o decadenza.",
+    "keywords": [
+      "giunta delle elezioni",
+      "verifica dei poteri",
+      "ineleggibilità e incompatibilità",
+      "convalida elezione deputati"
+    ]
+  },
+  {
+    "articolo": "17",
+    "comma": "2",
+    "testo_originale_comma": "2. La Giunta elegge nella prima riunione un presidente, due vicepresidenti e tre segretari. Essa esercita le proprie funzioni sulla base di un regolamento interno che, previo esame della Giunta per il Regolamento, deve essere approvato dalla Camera con le modalità previste nel comma 4 dell'articolo 16. Nel procedimento davanti alla Giunta delle elezioni deve essere assicurato in ogni fase il principio del contraddittorio e, nella fase del giudizio sulla contestazione, il principio della pubblicità.",
+    "keywords": [
+      "elezione ufficio presidenza",
+      "approvazione regolamento interno",
+      "principio del contraddittorio",
+      "principio di pubblicità",
+      "garanzie procedurali giunta elezioni"
+    ]
+  },
+  {
+    "articolo": "17",
+    "comma": "3",
+    "testo_originale_comma": "3. I deputati componenti la Giunta delle elezioni non possono rifiutare la nomina, né dare le dimissioni; quand'anche queste siano date, il Presidente della Camera non le comunica all'Assemblea. Possono essere sostituiti, su loro richiesta, i deputati che siano chiamati a far parte del Governo ovvero ad assumere la presidenza di un organo parlamentare.",
+    "keywords": [
+      "obbligatorietà nomina giunta",
+      "divieto di dimissioni",
+      "inefficacia delle dimissioni",
+      "sostituzione per incompatibilità"
+    ]
+  },
+  {
+    "articolo": "17",
+    "comma": "4",
+    "testo_originale_comma": "4. Qualora la Giunta non risponda per un mese alla convocazione, sebbene ripetutamente fatta dal suo presidente, o non sia possibile ottenere durante lo stesso tempo il numero legale, il Presidente della Camera provvede a rinnovare la Giunta.",
+    "keywords": [
+      "rinnovo giunta",
+      "inattività della giunta",
+      "mancanza numero legale",
+      "intervento presidente camera"
+    ]
+  },
+  {
+    "articolo": "17-bis",
+    "comma": "1",
+    "testo_originale_comma": "1. Qualora una proposta della Giunta delle elezioni in materia di verifica dei poteri discenda esclusivamente dal risultato di accertamenti numerici, l'Assemblea non procede a votazioni e la proposta s'intende approvata, salvo che, prima della conclusione della discussione, quattordici deputati chiedano, con ordine del giorno motivato, che la Giunta proceda a ulteriori verifiche. Se l'Assemblea respinge l'ordine del giorno, s'intende approvata la proposta della Giunta. (**)",
+    "keywords": [
+      "verifica dei poteri",
+      "accertamenti numerici",
+      "approvazione senza voto",
+      "ordine del giorno motivato"
+    ]
+  },
+  {
+    "articolo": "17-bis",
+    "comma": "2",
+    "testo_originale_comma": "2. Il Presidente comunica all'Assemblea, che ne prende atto senza procedere a votazioni, le dimissioni dal mandato parlamentare motivate in relazione alla volontà di optare per una carica o per un ufficio con esso incompatibile.",
+    "keywords": [
+      "dimissioni per incompatibilità",
+      "presa d'atto senza voto",
+      "opzione carica incompatibile",
+      "comunicazione del presidente"
+    ]
+  },
+  {
+    "articolo": "17-bis",
+    "comma": "3",
+    "testo_originale_comma": "3. Qualora un seggio, per qualsiasi causa, rimanga vacante, e la legge elettorale non preveda che esso venga attribuito mediante lo svolgimento di elezioni suppletive, il Presidente della Camera proclama eletto il candidato che segue immediatamente l'ultimo eletto nell'ordine accertato dalla Giunta delle elezioni.",
+    "keywords": [
+      "seggio vacante",
+      "subentro deputato",
+      "primo dei non eletti",
+      "proclamazione senza elezioni"
+    ]
+  },
+  {
+    "articolo": "17-bis",
+    "comma": "4",
+    "testo_originale_comma": "4. Per le deliberazioni su proposte formulate dalla Giunta delle elezioni la Camera può essere convocata anche successivamente al suo scioglimento.",
+    "keywords": [
+      "convocazione camera sciolta",
+      "delibere post scioglimento",
+      "giunta delle elezioni",
+      "poteri in prorogatio"
+    ]
+  }
+]
