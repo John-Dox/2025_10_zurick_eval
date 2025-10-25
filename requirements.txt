@@ -2,6 +2,12 @@
 # sudo apt-get update && sudo apt-get install -y pandoc
 # opencv-python-headless numpy
 # numpy opencv-python-headless scikit-learn
+# Strumenti di analisi della repo
+# pip install pydeps
+# pip install code2flow
+# pip install pipdeptree
+# docker run --rm -v "$(pwd):/code" githubocto/repo-visualizer
+# pip install graphviz
 google-cloud-storage
 google-cloud-documentai
 google-generativeai
